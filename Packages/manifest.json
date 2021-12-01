@@ -45,9 +45,7 @@
       "name": "package.openupm.com",
       "url": "https://package.openupm.com",
       "scopes": [
-        "com.atteneder.draco",
         "com.atteneder.gltfast",
-        "com.atteneder.ktx",
         "com.openupm"
       ]
     }
